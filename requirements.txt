@@ -1,0 +1,10 @@
+boto3==1.34.33
+botocore==1.34.33
+jmespath==1.0.1
+python-dateutil==2.8.2
+PyYAML==6.0.1
+rdk==0.17.8
+rdklib==0.3.6
+s3transfer==0.10.0
+six==1.16.0
+urllib3==2.0.7

@@ -1,0 +1,5 @@
+python/
+.terraform/
+tfplan
+terraform.tfstate*
+*.zip
